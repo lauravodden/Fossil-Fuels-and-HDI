@@ -47,7 +47,8 @@ A new dataframe was compiled, using <b>left_join()</b>, comprising the 2014 data
 Finally, it must be noted that data available are not a random sample. The data include a population of all countries for which Gapminder data are available. In order to satisfy the requirements for any significance test, and to try to avoid any bias inherent in the original population data, a random sample of 100 countries was generated, using the <b>sample()</b> function. A selection of the resulting dataframe is shown in <i>Table 1</i>. Each of the three objectives covered in this report will refer to this random sample. <i>Table 2</i> provides further detail about the variables used. The full dataframe can be viewed in <i>Appendix 1</i>.
 
 
-![Tab1](https://github.com//lauravodden/Fossil-Fuels-and-HDI/Tab1.JPG)
+![Tab1](https://user-images.githubusercontent.com/70361071/116188499-dbbe8400-a76a-11eb-936a-6f01c729e56c.JPG)
+
 
 
 ## Objective 1: Emission inequality: Test whether there is a difference between total CO2 emissions in high and low HDI countries.
