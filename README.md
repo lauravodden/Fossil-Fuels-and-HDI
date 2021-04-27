@@ -2,6 +2,7 @@
 Laura Vodden
 
 
+
 ## Executive Summary
 > Carbon dioxide (CO2) emissions are produced by burning fossil fuels, primarily as a source of energy (Olivier et al., 2012). It has been demonstrated that countries with the highest CO2 emissions have the wealthiest people and greates economic growth (Hickel, 2020; Holtz-Eakin & Selden, 1995; Jorgenson et al., 2017), and that there is global inequality in the production of carbon emissions, reflecting this (Chancel & Piketty, 2015; Oxfam, 2015).
 > 
